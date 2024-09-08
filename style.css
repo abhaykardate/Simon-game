@@ -1,0 +1,38 @@
+
+*{
+    text-align: center;
+}
+.div{
+    border: 5px solid black;
+    border-radius: 20%;
+    margin: auto;
+    height: 170px;
+    width: 170px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.div1{
+    background-color: #f99b45;
+}
+.div2{
+    background-color: #d95980;
+}
+.div3{
+    background-color: #819ff9;
+}
+.div4{
+    background-color: #63aac0;
+}
+.btnContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
